@@ -7,6 +7,12 @@
   <img src="https://github.com/vic/dendritic-unflake/actions/workflows/test.yaml/badge.svg" alt="CI Status"/> </a>
 </p>
 
+This repo contains several non-flakes examples (one per branch):
+
+- [unflake](tree/main) **current**
+- [npins](tree/npins)
+
+
 # Dendritic unflake
 
 This repository serves as an example Dendritic Nix implementation **without** flakes nor flake-parts.
