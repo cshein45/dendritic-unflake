@@ -4,12 +4,13 @@
   <a href="https://vic.github.io/dendrix/Dendritic-Ecosystem.html#vics-dendritic-libraries"> <img src="https://img.shields.io/badge/Dendritic-Nix-informational?logo=nixos&logoColor=white" alt="Dendritic Nix"/> </a>
   <a href="LICENSE"> <img src="https://img.shields.io/github/license/vic/dendritic-unflake" alt="License"/> </a>
   <a href="https://github.com/vic/dendritic-unflake/actions">
-  <img src="https://github.com/vic/dendritic-unflake/actions/workflows/test.yml/badge.svg" alt="CI Status"/> </a>
+  <img src="https://github.com/vic/dendritic-unflake/actions/workflows/test.yaml/badge.svg" alt="CI Status"/> </a>
 </p>
 
 # Dendritic unflake
 
 This repository serves as an example Dendritic Nix implementation **without** flakes nor flake-parts.
+([discourse post](https://discourse.nixos.org/t/dendritic-unflake-example-dendritic-setup-without-flakes-nor-flake-parts/73069/5) and [context](https://github.com/mightyiam/dendritic/pull/15))
 
 
 Entry point is [default.nix](default.nix), [modules/example.nix](modules/example.nix) defines a nixosConfiguration.
