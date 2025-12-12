@@ -12,6 +12,7 @@ This repo contains several non-flakes examples (one per branch):
 - [unflake](https://github.com/vic/dendritic-unflake/tree/main) **current**
 - [npins](https://github.com/vic/dendritic-unflake/tree/npins)
 - [builtins](https://github.com/vic/dendritic-unflake/tree/builtins)
+- [froyo](https://github.com/vic/dendritic-unflake/tree/froyo)
 
 
 # Dendritic unflake
